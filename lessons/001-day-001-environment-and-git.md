@@ -57,7 +57,6 @@ A tag does not replace a commit message and does not sit in front of every commi
 ## Reflection
 
 - What became clearer? The basic Git flow and the purpose of tags.
-- What still feels like magic? The relationship between commits, branches, remotes, and tags needs more practice.
 - What did I get stuck on? Nothing significant today.
 - What will I change tomorrow? Move on to semantic HTML and build the profile page.
 

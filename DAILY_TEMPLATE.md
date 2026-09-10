@@ -1,8 +1,10 @@
 # Day [NNN] — [Topic]
 
+**Type:** Learn / Milestone / Integration / Review
+
 ## Objective
 
-By the end of today I can:
+By the end of this lesson I can:
 
 - [ ] [observable outcome]
 
@@ -10,7 +12,7 @@ By the end of today I can:
 
 - Primary resource:
 - Pages or lesson:
-- Timebox: 45 minutes
+- Resource examples or exercises completed:
 
 ## Recall
 
@@ -18,32 +20,30 @@ Without looking at notes, explain:
 
 -
 
-## Build
+## Milestone / Integration
 
-- Deliverable:
-- Acceptance check:
+- Skip this section for a Learn lesson unless the resource itself requires a build.
+- Deliverable or project change:
+- Completion check:
 
-## Drill
+## Review
 
-- DSA / SQL / debugging exercise:
-- What pattern did I practice?
+- What can I reproduce without the resource?
+- What gap needs another session?
 
 ## Evidence
 
-- Code or project link:
-- Screenshot or demo:
-- Tests:
+- Resource exercise, code, note, project link, screenshot, demo, or test:
 
 ## Reflection
 
 - What became clearer?
 - What still feels like magic?
 - What did I get stuck on?
-- What will I change tomorrow?
+- What will I change in the next lesson?
 
 ## Commit
 
 ```text
 day-[NNN]: [short description]
 ```
-
